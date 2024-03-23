@@ -12,6 +12,12 @@ const Home = () => {
         image="https://via.placeholder.com/150"
         description="This is the featured item on our website."
       />
+      <Card
+        title="Featured Item"
+        image="https://via.placeholder.com/150"
+        description="This is the featured item on our website."
+      />
+      
       
     </div>
   );
